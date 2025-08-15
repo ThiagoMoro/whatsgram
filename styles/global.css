@@ -16,8 +16,8 @@
   --shape-transparency: rgba(255, 255, 255, 0.56); /* Transparência */
   --font-family: 'Poppins', sans-serif; /* Fonte padrão */
   --text: 16px/1.5 var(--font-family); /* Tamanho normal */
-  --text-sm: 12px/175% var(--font-family); /* Tamanho pequeno */
-  --text-md: 14px/175% vat(--font-family); /* Tamanho médio */
+  --text-sm: 12px/170% var(--font-family); /* Tamanho pequeno */
+  --text-md: 14px/170% vat(--font-family); /* Tamanho médio */
   --text-lg: bold 32px/125% var(--font-family); /* Tamanho grande */
 }
 
